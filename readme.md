@@ -25,12 +25,9 @@ falsire-idcheck/
 
 ## Installation - This is super simple lol 
 
-## ⚙️ Installation
-
-1. Download this and put it in your resources folder. If you're using qbox place it in [standalone] if you wish to.
-2. Add the resource to your `server.cfg` -- Not needed if you put this in your [standalone] folder in qbox. 
+1. Download this and put it in your resources folder. If you're using QBOX place it in [standalone] if you wish to.
+2. Add the resource to your `server.cfg` -- Not needed if you put this in your [standalone] folder in QBOX. 
 3. Restart your server and check your txadmin to see if the script has started. 
-
 
 ---
 
