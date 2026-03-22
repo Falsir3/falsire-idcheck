@@ -16,13 +16,6 @@ A lightweight, standalone FiveM script that lets players toggle nearby player ID
 
 ---
 
-## Resource Structure 
-
-falsire-idcheck/
-├── fxmanifest.lua
-├── client.lua
-└── README.md
-
 ## Installation - This is super simple lol 
 
 1. Download this and put it in your resources folder. If you're using QBOX place it in [standalone] if you wish to.
